@@ -1,3 +1,6 @@
+##Programa que leia um valor e que imprima a quantidade de cédulas necessárias para pagar esse mesmo valor. 
+###Para simplicar, vamos trabalhar com números interiors e com cédulas de 100, 50, 20, 10, 5 e 1.
+
 valor = int(input())
 cedulas = 0
 atual = 100
